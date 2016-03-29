@@ -83,7 +83,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Living Style Guide Driven Development by [Chris LoPresto](https://twitter.com/chrislopresto)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://chrislopresto.com/presentations/living-style-guide-driven-development?c=false&h=0&ph=900&pw=1600&v=0
 - Links:
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
     + [an agile design manifesto for ember.js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
