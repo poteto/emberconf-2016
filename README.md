@@ -76,7 +76,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/@alexblom)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://www.slideshare.net/AlexBlom/ember-conf-2016-building-mobile-apps-with-ember
 - Links:
     + [ember-cordova](https://github.com/isleofcode/ember-cordova)
 
