@@ -28,3 +28,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [DockYard running on FastBoot](https://dockyard.com)
     + [ember-fastboot](http://www.ember-fastboot.com/)
     + [Glimmer 2](https://github.com/tildeio/glimmer)
+    + [ember-appcache-demo](https://ebryn.github.io/ember-appcache-demo/)
