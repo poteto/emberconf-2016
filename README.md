@@ -27,3 +27,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [The Chrome Distortion: how Chrome negatively alters our expectations](https://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/) by [runspired](https://www.twitter.com/runspired)
     + [DockYard running on FastBoot](https://dockyard.com)
     + [ember-fastboot](http://www.ember-fastboot.com/)
+    + [Glimmer 2](https://github.com/tildeio/glimmer)
