@@ -65,6 +65,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [ember-electron](https://github.com/felixrieseberg/ember-electron)
+    + [Ghost Desktop App](https://github.com/TryGhost/Ghost-Desktop)
+    + [electron](http://electron.atom.io/)
 
 #### How I Learned to Love Ember by [Ju Liu](https://twitter.com/@arkh4m)
 
@@ -80,5 +82,6 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
-- Links: 
+- Links:
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
+    + [an agile design manifesto for ember js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
