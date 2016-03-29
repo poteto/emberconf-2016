@@ -84,4 +84,14 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
-    + [an agile design manifesto for ember js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
+    + [an agile design manifesto for ember.js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
+
+#### Warp Speed Memory Management by [Kelly Senna](https://twitter.com/@simplysenna)
+
+- Video: TBA
+- Slides: TBA
+
+#### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/@vaidehijoshi)
+
+- Video: TBA
+- Slides: TBA
