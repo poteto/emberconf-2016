@@ -2,6 +2,8 @@
 
 A collection of links that cover what happened during EmberConf 2016. There is also a summary repo for [EmberConf 2015](https://github.com/poteto/emberconf-2015).
 
+![https://twitter.com/rwjblue/status/714861314569424896](https://pbs.twimg.com/media/Ceuyk2dWEAILjH_.jpg)
+
 ## Day 1
 
 ### Live Blogs / Streams
