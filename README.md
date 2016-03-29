@@ -13,7 +13,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 ### Talks
 
-#### Opening Keynote by Yehuda Katz and Tom Dale
+#### Opening Keynote by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
 - Video: TBA
 - Slides: TBA
@@ -29,3 +29,14 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [ember-fastboot](http://www.ember-fastboot.com/)
     + [Glimmer 2](https://github.com/tildeio/glimmer)
     + [ember-appcache-demo](https://ebryn.github.io/ember-appcache-demo/)
+
+#### Using Service Workers in Ember by [John Kleinschmidt](https://twitter.com/jkleinsc)
+
+- Video: TBA
+- Slides: TBA
+- Links:
+    + [hospitalrun.io](http://hospitalrun.io/)
+    + [isserviceworkerready?](https://jakearchibald.github.io/isserviceworkerready/)
+    + [service-worker-cookbook](https://serviceworke.rs/)
+    + [broccoli-serviceworker](https://github.com/jkleinsc/broccoli-serviceworker)
+    + [serviceworker-toolbox](https://github.com/GoogleChrome/sw-toolbox)
