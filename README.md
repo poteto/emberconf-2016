@@ -17,6 +17,9 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [ember-concurrency](https://github.com/machty/ember-concurrency)
-    + [ember-twiddle](ember-twiddle.com)
-    + [ember-observer](emberobserver.com)
+    + [ember-twiddle](https://ember-twiddle.com/)
+    + [ember-observer](https://emberobserver.com/)
     + [smoke-and-mirrors](https://github.com/runspired/smoke-and-mirrors)
+    + [ember-redux](https://github.com/toranb/ember-redux)
+    + [angular-cli](https://ngcli.github.io/)
+    + [The Chrome Distortion: how Chrome negatively alters our expectations](https://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/) by [runspired](https://www.twitter.com/runspired)
