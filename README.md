@@ -9,7 +9,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 ### Live Blogs / Streams
 
 - [Marten Schilstra](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
-- [Okke Timm](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
+- [Mehul Kar](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
 
 ### Talks
 
