@@ -4,9 +4,10 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 ## Day 1
 
-### Live Blogs
+### Live Blogs / Streams
 
 - [Marten Schilstra](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
+- [Okke Timm](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
 
 ### Talks
 
@@ -14,4 +15,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
-
+- Links:
+    + [ember-concurrency](https://github.com/machty/ember-concurrency)
+    + [ember-twiddle](ember-twiddle.com)
+    + [ember-observer](emberobserver.com)
+    + [smoke-and-mirrors](https://github.com/runspired/smoke-and-mirrors)
