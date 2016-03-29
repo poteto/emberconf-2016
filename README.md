@@ -53,3 +53,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: http://talks.brennaobrien.com/ember-select/selecting-good-ember-patterns.pdf
 - Links:
     + [ember-ted-select](https://github.com/tedconf/ember-ted-select)
+
+#### An Illustrated Guide to Ember by [Brigitte Warner](https://twitter.com/@BrigitteWarner)
+
+- Video: TBA
+- Slides: TBA
+
+#### Building Desktop Apps with Ember and Electron by [Felix Rieseberg](https://twitter.com/felixrieseberg)
+
+- Video: TBA
+- Slides: TBA
