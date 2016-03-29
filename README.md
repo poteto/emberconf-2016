@@ -51,3 +51,5 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: http://talks.brennaobrien.com/ember-select/selecting-good-ember-patterns.pdf
+- Links:
+    + [ember-ted-select](https://github.com/tedconf/ember-ted-select)
