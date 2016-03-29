@@ -33,7 +33,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Using Service Workers in Ember by [John Kleinschmidt](https://twitter.com/jkleinsc)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://jkleinsc.github.io/emberconf2016
 - Links:
     + [hospitalrun.io](http://hospitalrun.io/)
     + [isserviceworkerready?](https://jakearchibald.github.io/isserviceworkerready/)
