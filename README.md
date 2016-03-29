@@ -46,4 +46,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
-- Links
+
+#### <select>ing Good Ember Patterns by [Brenna O'Brien](https://twitter.com/brnnbrn)
+
+- Video: TBA
+- Slides: http://talks.brennaobrien.com/ember-select/selecting-good-ember-patterns.pdf
