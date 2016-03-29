@@ -77,6 +77,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [ember-cordova](https://github.com/isleofcode/ember-cordova)
 
 #### Living Style Guide Driven Development by [Chris LoPresto](https://twitter.com/chrislopresto)
 
