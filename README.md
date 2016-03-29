@@ -18,6 +18,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Video: TBA
 - Slides: TBA
 - Links:
+    + [Ember Community Survey 2016 results](http://emberjs.com/ember-community-survey-2016/)
     + [ember-concurrency](https://github.com/machty/ember-concurrency)
     + [ember-twiddle](https://ember-twiddle.com/)
     + [ember-observer](https://emberobserver.com/)
@@ -40,3 +41,9 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [service-worker-cookbook](https://serviceworke.rs/)
     + [broccoli-serviceworker](https://github.com/jkleinsc/broccoli-serviceworker)
     + [serviceworker-toolbox](https://github.com/GoogleChrome/sw-toolbox)
+
+#### Cross-Pollinating Communities: We All Win by [Chris Ball](https://twitter.com/cball_)
+
+- Video: TBA
+- Slides: TBA
+- Links
