@@ -65,3 +65,20 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [ember-electron](https://github.com/felixrieseberg/ember-electron)
+
+#### How I Learned to Love Ember by [Ju Liu](https://twitter.com/@arkh4m)
+
+- Video: TBA
+- Slides: TBA
+
+#### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/@alexblom)
+
+- Video: TBA
+- Slides: TBA
+
+#### Living Style Guide Driven Development by [Chris LoPresto](https://twitter.com/chrislopresto)
+
+- Video: TBA
+- Slides: TBA
+- Links: 
+    + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
