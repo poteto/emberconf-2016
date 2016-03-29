@@ -63,3 +63,5 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [ember-electron](https://github.com/felixrieseberg/ember-electron)
