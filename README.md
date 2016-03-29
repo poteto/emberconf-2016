@@ -97,3 +97,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+
+#### Dissecting an Ember CLI Build by [Estelle DeBlois](https://twitter.com/@edeblois)
+
+- Video: TBA
+- Slides: TBA
+
+#### Ember at Scale by [Chad Hietala](https://twitter.com/@chadhietala)
+
+- Video: TBA
+- Slides: TBA
