@@ -161,9 +161,9 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Compose Yourself with Ember and D3 by [Ivan Vanderbyl](https://twitter.com/ivanderbyl)
 
 - Video: TBA
-- Slides: http://ec16.tomster.io/slides
+- Slides: https://speakerdeck.com/ivanvanderbyl/building-ambitious-data-visualisations
 - Links:
-    + [d3-sha[e](https://github.com/d3/d3-shape)
+    + [d3-shape](https://github.com/d3/d3-shape)
     + [d3-array](https://github.com/d3/d3-array)
     + [d3-scale](https://github.com/d3/d3-scale)
     + [ember-cli-d3-shape](https://github.com/ivanvanderbyl/ember-cli-d3-shape)
