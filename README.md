@@ -151,6 +151,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [Bash on Microsoft](http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/)
 
 #### Building a Game in Ember Starring Your Cat by [Matt McKenna](https://twitter.com/mattmckenna)
 - Video: TBA
@@ -159,7 +161,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Compose Yourself with Ember and D3 by [Ivan Vanderbyl](https://twitter.com/ivanderbyl)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://ec16.tomster.io/slides
+- Links:
+    + [d3-sha[e](https://github.com/d3/d3-shape)
+    + [d3-array](https://github.com/d3/d3-array)
+    + [d3-scale](https://github.com/d3/d3-scale)
+    + [ember-cli-d3-shape](https://github.com/ivanvanderbyl/ember-cli-d3-shape)
+    + [maximum-plaid](https://github.com/ivanvanderbyl/maximum-plaid)
 
 #### Easy-Bake Testing by [Liz Baillie](https://twitter.com/infinite_math)
 
