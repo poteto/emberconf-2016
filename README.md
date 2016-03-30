@@ -65,7 +65,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Building Desktop Apps with Ember and Electron by [Felix Rieseberg](https://twitter.com/felixrieseberg)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/felixrieseberg/emberconf-2016-building-desktop-apps-with-ember-and-electron
 - Links:
     + [ember-electron](https://github.com/felixrieseberg/ember-electron)
     + [Ghost Desktop App](https://github.com/TryGhost/Ghost-Desktop)
