@@ -111,3 +111,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
     + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
     + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
+    + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
