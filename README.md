@@ -165,3 +165,22 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+
+#### Idiomatic Ember: Sweet Spot of Performance and Productivity by [Lauren Tan](https://twitter.com/sugarpirate_)
+
+- Video: TBA
+- Slides: http://bit.ly/idiomatic-ember
+- Links:
+    + [decorators proposal](https://github.com/wycats/javascript-decorators)
+    + [async/await](https://github.com/tc39/ecmascript-asyncawait)
+    + [generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+    + [ember-concurrency](https://github.com/machty/ember-concurrency)
+    + [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper)
+    + [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers)
+    + [observer talk](https://youtu.be/vvZEddrClAQ) by Stefan Penner
+    + [servo webrender](https://air.mozilla.org/bay-area-rust-meetup-february-2016/#@1m53s)
+
+#### The Ember Addon Community by [Katie Gengler](https://twitter.com/katiegengler)
+
+- Video: TBA
+- Slides: TBA
