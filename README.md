@@ -112,7 +112,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Ember at Scale by [Chad Hietala](https://twitter.com/@chadhietala)
 
 - Video: TBA
-- Slides: TBA
+- Slides: [Ember At Scale](http://www.slideshare.net/chadhietala/ember-at-scale)
 - Links: 
     + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
     + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
