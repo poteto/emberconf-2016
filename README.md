@@ -111,12 +111,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [ember-metrics](https://github.com/poteto/ember-metrics)
     + [broccoli-stew](https://github.com/stefanpenner/broccoli-stew)
     + [ember-cli addon hooks](https://github.com/ember-cli/ember-cli/blob/master/ADDON_HOOKS.md)
- 
+
 #### Ember at Scale by [Chad Hietala](https://twitter.com/chadhietala)
 
 - Video: TBA
 - Slides: [Ember At Scale](http://www.slideshare.net/chadhietala/ember-at-scale)
-- Links: 
+- Links:
     + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
     + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
     + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
@@ -126,7 +126,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### You're Building a Distributed System! by [Mike Pack](https://twitter.com/mikepack_)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://www.slideshare.net/mikepack/youre-building-a-distributed-system
 - Links:
     + [CouchDB](http://couchdb.apache.org/)
     + [PouchDB](https://pouchdb.com/)
@@ -138,7 +138,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: https://speakerdeck.com/raytiley/a-tale-of-two-teams
- 
+
 ## Day 2
 
 ### Live Blogs / Streams
