@@ -45,7 +45,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Cross-Pollinating Communities: We All Win by [Chris Ball](https://twitter.com/cball_)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/cball/cross-pollinating-communities-we-all-win
 
 #### \<select\>ing Good Ember Patterns by [Brenna O'Brien](https://twitter.com/brnnbrn)
 
