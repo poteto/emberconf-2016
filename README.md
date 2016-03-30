@@ -96,7 +96,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/@vaidehijoshi)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://slides.com/vaidehijoshi/debugging-ember-empathy#/
 
 #### Dissecting an Ember CLI Build by [Estelle DeBlois](https://twitter.com/@edeblois)
 
