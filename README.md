@@ -124,6 +124,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [CouchDB](http://couchdb.apache.org/)
+    + [PouchDB](https://pouchdb.com/)
+    + [Firebase](https://www.firebase.com/)
+    + [Orbit.js](https://github.com/orbitjs/orbit.js)
+    + [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 #### The Tale of Two Teams by [Ray Tiley](https://twitter.com/@raytiley)
 
