@@ -191,7 +191,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### The Ember Addon Community by [Katie Gengler](https://twitter.com/katiegengler)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://docs.google.com/presentation/d/12_jRFES1PibiBBpUxsC7HW8kSamgRnXG0wNrwqU6dOg/pub?start=false&loop=false&delayms=3000&slide=id.p
 
 #### Immutability is for UI, You, and I by [Charles Lowell](https://twitter.com/cowboyd)
 
