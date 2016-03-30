@@ -242,4 +242,5 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - [Javascript stack visualization](http://latentflip.com/loupe)
 - [ember-twiddle](https://ember-twiddle.com/)
-- [ember-a11y](https://github.com/nathanhammond/ember-a11y)
+- [ember-a11y](https://github.com/nathanhammond/ember-a11y))
+- [ember-hearth](http://ember.town/ember-hearth/)
