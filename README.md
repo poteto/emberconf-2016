@@ -11,7 +11,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 ### Live Blogs / Streams
 
-- [Marten Schilstra](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
+- [DockYard](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
 - [Mehul Kar](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
 
 ### Talks
@@ -140,6 +140,10 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: https://speakerdeck.com/raytiley/a-tale-of-two-teams
  
 ## Day 2
+
+### Live Blogs / Streams
+
+- [DockYard](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
 
 ### Talks
 
