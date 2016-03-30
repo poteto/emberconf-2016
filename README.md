@@ -202,3 +202,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: https://xcambar.github.io/emberconf_2016/
+
+#### How to Build a Compiler by [James Kyle](https://twitter.com/thejameskyle)
+
+- Video: TBA
+- Slides: TBA
+
+#### The Great Migration: Redesigning and Rewriting our App in Ember.js by [Jade Applegate](https://twitter.com/jadeapplegate)
+
+- Video: TBA
+- Slides: TBA
