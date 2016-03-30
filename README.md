@@ -71,7 +71,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### How I Learned to Love Ember by [Ju Liu](https://twitter.com/@arkh4m)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/arkham/how-i-learned-to-love-ember
 
 #### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/@alexblom)
 
