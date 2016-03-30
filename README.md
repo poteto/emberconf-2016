@@ -155,3 +155,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Building a Game in Ember Starring Your Cat by [Matt McKenna](https://twitter.com/mattmckenna)
 - Video: TBA
 - Slides: https://speakerdeck.com/mtmckenna/build-a-game-in-ember-starring-your-cat
+
+#### Compose Yourself with Ember and D3 by [Ivan Vanderbyl](https://twitter.com/ivanderbyl)
+
+- Video: TBA
+- Slides: TBA
+
+#### Easy-Bake Testing by [Liz Baillie](https://twitter.com/infinite_math)
+
+- Video: TBA
+- Slides: TBA
