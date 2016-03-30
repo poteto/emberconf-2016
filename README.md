@@ -45,7 +45,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Cross-Pollinating Communities: We All Win by [Chris Ball](https://twitter.com/cball_)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/cball/cross-pollinating-communities-we-all-win
 
 #### \<select\>ing Good Ember Patterns by [Brenna O'Brien](https://twitter.com/brnnbrn)
 
@@ -113,3 +113,9 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links: 
+    + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
+    + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
+    + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
+    + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
+    + [mobile-linkedin](https://www.linkedin.com/m/)
