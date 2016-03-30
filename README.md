@@ -201,4 +201,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Migrating an Existing App to Ember, Component After Component by [Xavier Cambar](https://twitter.com/xcambar)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://xcambar.github.io/emberconf_2016/
