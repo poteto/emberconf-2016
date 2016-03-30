@@ -19,7 +19,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Opening Keynote by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/tomdale/emberconf-2016-keynote
 - Links:
     + [Ember Community Survey 2016 results](http://emberjs.com/ember-community-survey-2016/)
     + [ember-concurrency](https://github.com/machty/ember-concurrency)
