@@ -219,3 +219,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+
+#### The Future of Ember Templating by [Godfrey Chan](https://twitter.com/chancancode) & [Yehuda Katz](https://twitter.com/wycats)
+
+- Video: TBA
+- Slides: TBA
+
+#### Interoperable Component Patterns by [Matthew Beale](https://twitter.com/mixonic)
+
+- Video: TBA
+- Slides: TBA
