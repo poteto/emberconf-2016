@@ -197,6 +197,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [om](https://github.com/omcljs/om)
+    + [omniscient.js github](https://github.com/omniscientjs/omniscient)
+    + [omniscient.js site](http://omniscientjs.github.io/)
+    + [immutability podcast](https://frontsidethepodcast.simplecast.fm/33)
+    + [ember-impagination](https://github.com/thefrontside/ember-impagination)
+    + [emberx-select](https://github.com/thefrontside/emberx-select)
 
 #### Migrating an Existing App to Ember, Component After Component by [Xavier Cambar](https://twitter.com/xcambar)
 
