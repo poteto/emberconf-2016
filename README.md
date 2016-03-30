@@ -224,6 +224,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [Glimmer guide](https://github.com/tildeio/glimmer/blob/master/guides/01-introduction.md)
 
 #### Interoperable Component Patterns by [Matthew Beale](https://twitter.com/mixonic)
 
