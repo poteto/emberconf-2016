@@ -137,7 +137,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### The Tale of Two Teams by [Ray Tiley](https://twitter.com/raytiley)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/raytiley/a-tale-of-two-teams
  
 ## Day 2
 
