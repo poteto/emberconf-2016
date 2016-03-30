@@ -226,6 +226,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [Glimmer guide](https://github.com/tildeio/glimmer/blob/master/guides/01-introduction.md)
+    + [The Ultimate Glimmer 2 Test Porting Guide](https://github.com/emberjs/ember.js/issues/13127)
 
 #### Interoperable Component Patterns by [Matthew Beale](https://twitter.com/mixonic)
 
