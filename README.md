@@ -110,3 +110,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Links: 
     + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
     + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
+    + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
