@@ -192,3 +192,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+
+#### Immutability is for UI, You, and I by [Charles Lowell](https://twitter.com/cowboyd)
+
+- Video: TBA
+- Slides: TBA
+
+#### Migrating an Existing App to Ember, Component After Component by [Xavier Cambar](https://twitter.com/xcambar)
+
+- Video: TBA
+- Slides: TBA
