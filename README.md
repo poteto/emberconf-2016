@@ -114,7 +114,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
     + [mobile-linkedin](https://www.linkedin.com/m/)
 
-#### You're Building a Distributed System! by [Mike Pack](https://twitter.com/@simplysenna)
+#### You're Building a Distributed System! by [Mike Pack](https://twitter.com/@mikepack_)
 
 - Video: TBA
 - Slides: TBA
