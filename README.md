@@ -57,7 +57,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Links:
     + [ember-ted-select](https://github.com/tedconf/ember-ted-select)
 
-#### An Illustrated Guide to Ember by [Brigitte Warner](https://twitter.com/@BrigitteWarner)
+#### An Illustrated Guide to Ember by [Brigitte Warner](https://twitter.com/BrigitteWarner)
 
 - Video: TBA
 - Slides: TBA
@@ -71,12 +71,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [Ghost Desktop App](https://github.com/TryGhost/Ghost-Desktop)
     + [electron](http://electron.atom.io/)
 
-#### How I Learned to Love Ember by [Ju Liu](https://twitter.com/@arkh4m)
+#### How I Learned to Love Ember by [Ju Liu](https://twitter.com/arkh4m)
 
 - Video: TBA
 - Slides: https://speakerdeck.com/arkham/how-i-learned-to-love-ember
 
-#### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/@alexblom)
+#### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/alexblom)
 
 - Video: TBA
 - Slides: http://www.slideshare.net/AlexBlom/ember-conf-2016-building-mobile-apps-with-ember
@@ -91,17 +91,17 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
     + [an agile design manifesto for ember.js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
 
-#### Warp Speed Memory Management by [Kelly Senna](https://twitter.com/@simplysenna)
+#### Warp Speed Memory Management by [Kelly Senna](https://twitter.com/simplysenna)
 
 - Video: TBA
 - Slides: TBA
 
-#### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/@vaidehijoshi)
+#### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/vaidehijoshi)
 
 - Video: TBA
 - Slides: http://slides.com/vaidehijoshi/debugging-ember-empathy#/
 
-#### Dissecting an Ember CLI Build by [Estelle DeBlois](https://twitter.com/@edeblois)
+#### Dissecting an Ember CLI Build by [Estelle DeBlois](https://twitter.com/edeblois)
 
 - Video: TBA
 - Slides: https://speakerdeck.com/brzpegasus/dissecting-an-ember-cli-build
@@ -112,7 +112,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [broccoli-stew](https://github.com/stefanpenner/broccoli-stew)
     + [ember-cli addon hooks](https://github.com/ember-cli/ember-cli/blob/master/ADDON_HOOKS.md)
  
-#### Ember at Scale by [Chad Hietala](https://twitter.com/@chadhietala)
+#### Ember at Scale by [Chad Hietala](https://twitter.com/chadhietala)
 
 - Video: TBA
 - Slides: [Ember At Scale](http://www.slideshare.net/chadhietala/ember-at-scale)
@@ -123,7 +123,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
     + [mobile-linkedin](https://www.linkedin.com/m/)
 
-#### You're Building a Distributed System! by [Mike Pack](https://twitter.com/@mikepack_)
+#### You're Building a Distributed System! by [Mike Pack](https://twitter.com/mikepack_)
 
 - Video: TBA
 - Slides: TBA
@@ -134,7 +134,20 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [Orbit.js](https://github.com/orbitjs/orbit.js)
     + [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
-#### The Tale of Two Teams by [Ray Tiley](https://twitter.com/@raytiley)
+#### The Tale of Two Teams by [Ray Tiley](https://twitter.com/raytiley)
 
 - Video: TBA
 - Slides: TBA
+ 
+## Day 2
+
+### Talks
+
+#### Ember CLI, The Next Generation by [Stefan Penner](https://twitter.com/stefanpenner)
+
+- Video: TBA
+- Slides: TBA
+
+#### Building a Game in Ember Starring Your Cat by [Matt McKenna](https://twitter.com/mattmckenna)
+- Video: TBA
+- Slides: https://speakerdeck.com/mtmckenna/build-a-game-in-ember-starring-your-cat
