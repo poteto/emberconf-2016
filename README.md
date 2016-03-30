@@ -232,3 +232,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+
+### Lightning Talks
+
+- [ember-twiddle](https://ember-twiddle.com/)
+- [ember-a11y](https://github.com/nathanhammond/ember-a11y)
