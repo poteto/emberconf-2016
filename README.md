@@ -172,7 +172,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Easy-Bake Testing by [Liz Baillie](https://twitter.com/infinite_math)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://www.slideshare.net/LizBaillie/easybake-testing-emberconf-2016
 
 #### Idiomatic Ember: Sweet Spot of Performance and Productivity by [Lauren Tan](https://twitter.com/sugarpirate_)
 
