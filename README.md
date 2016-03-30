@@ -119,3 +119,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
     + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
     + [mobile-linkedin](https://www.linkedin.com/m/)
+
+#### You're Building a Distributed System! by [Mike Pack](https://twitter.com/@mikepack_)
+
+- Video: TBA
+- Slides: TBA
+
+#### The Tale of Two Teams by [Ray Tiley](https://twitter.com/@raytiley)
+
+- Video: TBA
+- Slides: TBA
