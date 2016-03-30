@@ -107,3 +107,5 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links: 
+    + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
