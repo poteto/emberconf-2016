@@ -196,7 +196,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Immutability is for UI, You, and I by [Charles Lowell](https://twitter.com/cowboyd)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/cowboyd/immutability-is-for-ui-you-and-i
 - Links:
     + [om](https://github.com/omcljs/om)
     + [omniscient.js github](https://github.com/omniscientjs/omniscient)
