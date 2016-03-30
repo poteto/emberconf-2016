@@ -112,3 +112,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [resource-discovery](https://github.com/chadhietala/ember-fastboot-server/tree/resource-discovery)
     + [ember-fastboot-server](https://github.com/ember-fastboot/ember-fastboot-server)
     + [chrome-tracing](https://www.npmjs.com/package/chrome-tracing)
+    + [mobile-linkedin](https://www.linkedin.com/m/)
