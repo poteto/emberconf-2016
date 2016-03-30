@@ -232,6 +232,11 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [A Pattern Language by Christopher Alexander](https://en.wikipedia.org/wiki/A_Pattern_Language)
+    + [custom-elements](http://webcomponents.org/polyfills/custom-elements/)
+    + [x-tag](http://x-tag.github.io/)
+    + [Polymer](https://www.polymer-project.org/1.0/)
 
 ### Lightning Talks
 
