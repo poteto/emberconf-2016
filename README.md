@@ -102,7 +102,13 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: https://speakerdeck.com/brzpegasus/dissecting-an-ember-cli-build
-
+- Links:
+    + [broccoli-concat](https://github.com/ember-cli/broccoli-concat)
+    + [broccoli-merge-trees](https://github.com/broccolijs/broccoli-merge-trees)
+    + [ember-metrics](https://github.com/poteto/ember-metrics)
+    + [broccoli-stew](https://github.com/stefanpenner/broccoli-stew)
+    + [ember-cli addon hooks](https://github.com/ember-cli/ember-cli/blob/master/ADDON_HOOKS.md)
+ 
 #### Ember at Scale by [Chad Hietala](https://twitter.com/@chadhietala)
 
 - Video: TBA
