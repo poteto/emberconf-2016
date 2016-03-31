@@ -218,6 +218,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
 
 #### The Great Migration: Redesigning and Rewriting our App in Ember.js by [Jade Applegate](https://twitter.com/jadeapplegate)
 
@@ -227,7 +229,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### The Future of Ember Templating by [Godfrey Chan](https://twitter.com/chancancode) & [Yehuda Katz](https://twitter.com/wycats)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/chancancode/the-future-of-ember-templating
 - Links:
     + [Glimmer guide](https://github.com/tildeio/glimmer/blob/master/guides/01-introduction.md)
     + [The Ultimate Glimmer 2 Test Porting Guide](https://github.com/emberjs/ember.js/issues/13127)
