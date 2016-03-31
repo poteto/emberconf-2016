@@ -141,6 +141,10 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 ## Day 2
 
+### Photos
+
+- [Jeremy Green](http://viewer.cloudhdr.com/galleries/3d907f2c-f6a8-11e5-912c-ca74e7c7373d/gallery-members)
+
 ### Live Blogs / Streams
 
 - [DockYard](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
