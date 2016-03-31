@@ -244,9 +244,19 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [x-tag](http://x-tag.github.io/)
     + [Polymer](https://www.polymer-project.org/1.0/)
 
-### Lightning Talks
+#### EmberConf MiniTalks
 
 - [Javascript stack visualization](http://latentflip.com/loupe)
 - [ember-twiddle](https://ember-twiddle.com/)
 - [ember-a11y](https://github.com/nathanhammond/ember-a11y))
 - [ember-hearth](http://ember.town/ember-hearth/)
+
+#### Ember Between Design and Development by [Lisa Gringl](https://twitter.com/kringal) & [Francesco Novy](https://twitter.com/_fnovy)
+
+- Video: TBA
+- Slides: http://slides.com/lisagringl/ember-between-design-development#/
+
+#### Closing Keynote: Reversing the River by [Oren Teich](https://twitter.com/teich)
+
+- Video: TBA
+- Slides: TBA
