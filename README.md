@@ -225,7 +225,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### The Great Migration: Redesigning and Rewriting our App in Ember.js by [Jade Applegate](https://twitter.com/jadeapplegate)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/jadeapplegate/emberconf-2016-redesigning-and-rewriting-our-application-in-ember-dot-js
 
 #### The Future of Ember Templating by [Godfrey Chan](https://twitter.com/chancancode) & [Yehuda Katz](https://twitter.com/wycats)
 
