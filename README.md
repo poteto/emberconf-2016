@@ -50,6 +50,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: https://speakerdeck.com/cball/cross-pollinating-communities-we-all-win
+- Links:
+    + [Announcing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js/)
 
 #### \<select\>ing Good Ember Patterns by [Brenna O'Brien](https://twitter.com/brnnbrn)
 
