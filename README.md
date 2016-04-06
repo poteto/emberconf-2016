@@ -97,7 +97,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Warp Speed Memory Management by [Kelly Senna](https://twitter.com/simplysenna)
 
 - Video: TBA
-- Slides: TBA
+- Slides: https://speakerdeck.com/ksenna/emberconf-2016-warp-speed-memory-management
 
 #### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/vaidehijoshi)
 
