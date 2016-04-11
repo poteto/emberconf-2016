@@ -63,7 +63,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### An Illustrated Guide to Ember by [Brigitte Warner](https://twitter.com/BrigitteWarner)
 
 - Video: TBA
-- Slides: TBA
+- Slides: http://slides.com/brigittewarner/illustrated-guide-to-ember#/
 
 #### Building Desktop Apps with Ember and Electron by [Felix Rieseberg](https://twitter.com/felixrieseberg)
 
