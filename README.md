@@ -240,8 +240,9 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 #### Interoperable Component Patterns by [Matthew Beale](https://twitter.com/mixonic)
 
 - Video: TBA
-- Slides: TBA
+- Slides: [madhatted.com/2016/4/12/interoperable-component-patterns](https://madhatted.com/2016/4/12/interoperable-component-patterns)
 - Links:
+    + [Full slide deck](http://www.slideshare.net/mixonic/interoperable-component-patterns)
     + [A Pattern Language by Christopher Alexander](https://en.wikipedia.org/wiki/A_Pattern_Language)
     + [custom-elements](http://webcomponents.org/polyfills/custom-elements/)
     + [x-tag](http://x-tag.github.io/)
