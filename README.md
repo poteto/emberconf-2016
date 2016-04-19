@@ -37,7 +37,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Using Service Workers in Ember by [John Kleinschmidt](https://twitter.com/jkleinsc)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=9YOvV4ZgDhU&index=1&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](http://jkleinsc.github.io/emberconf2016)
 - Links:
     + [hospitalrun.io](http://hospitalrun.io/)
@@ -62,7 +62,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### An Illustrated Guide to Ember by [Brigitte Warner](https://twitter.com/BrigitteWarner)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=-TB-u5QxjE4&index=4&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](http://slides.com/brigittewarner/illustrated-guide-to-ember#/)
 
 #### Building Desktop Apps with Ember and Electron by [Felix Rieseberg](https://twitter.com/felixrieseberg)
@@ -162,7 +162,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [Bash on Microsoft](http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/)
 
 #### Building a Game in Ember Starring Your Cat by [Matt McKenna](https://twitter.com/mattmckenna)
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=t9v3CBowdxw&index=16&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](https://speakerdeck.com/mtmckenna/build-a-game-in-ember-starring-your-cat)
 
 #### Compose Yourself with Ember and D3 by [Ivan Vanderbyl](https://twitter.com/ivanderbyl)
@@ -214,7 +214,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Migrating an Existing App to Ember, Component After Component by [Xavier Cambar](https://twitter.com/xcambar)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=-iL8ME7Ux2k&index=21&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](https://xcambar.github.io/emberconf_2016/)
 
 #### How to Build a Compiler by [James Kyle](https://twitter.com/thejameskyle)
@@ -239,7 +239,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Interoperable Component Patterns by [Matthew Beale](https://twitter.com/mixonic)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=fFbns_4YR28&index=23&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](madhatted.com/2016/4/12/interoperable-component-patterns)
 - Links:
     + [Full slide deck](http://www.slideshare.net/mixonic/interoperable-component-patterns)
