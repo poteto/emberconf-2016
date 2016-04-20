@@ -19,7 +19,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Opening Keynote by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=1xbN67jA4YA&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](https://speakerdeck.com/tomdale/emberconf-2016-keynote)
 - Links:
     + [Ember Community Survey 2016 results](http://emberjs.com/ember-community-survey-2016/)
@@ -178,7 +178,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Easy-Bake Testing by [Liz Baillie](https://twitter.com/infinite_math)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=9Wj01UrGtfs&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](http://www.slideshare.net/LizBaillie/easybake-testing-emberconf-2016)
 
 #### Idiomatic Ember: Sweet Spot of Performance and Productivity by [Lauren Tan](https://twitter.com/sugarpirate_)
@@ -197,7 +197,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### The Ember Addon Community by [Katie Gengler](https://twitter.com/katiegengler)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=_FZw_cokIhc&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Slides](https://docs.google.com/presentation/d/12_jRFES1PibiBBpUxsC7HW8kSamgRnXG0wNrwqU6dOg/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Immutability is for UI, You, and I by [Charles Lowell](https://twitter.com/cowboyd)
@@ -250,6 +250,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### EmberConf MiniTalks
 
+- Videos:
+    + [Accessibility in Ember by Ben Holmes](https://www.youtube.com/watch?v=KmzLMV-K4BI&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [Ember Twiddle by Gaurav Munjal](https://www.youtube.com/watch?v=DDrH2-_pDlo&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [JavaScript Callstack by Liz Tom](https://www.youtube.com/watch?v=T5-P8GLVlhY&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [WebRTC + Ember by Xander Dumaine](https://www.youtube.com/watch?v=owZi3xgiWJA&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [The Learning Team by Ricardo Mendes](https://www.youtube.com/watch?v=aYn9iTdsz9w&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Javascript stack visualization](http://latentflip.com/loupe)
 - [ember-twiddle](https://ember-twiddle.com/)
 - [ember-a11y](https://github.com/nathanhammond/ember-a11y)
