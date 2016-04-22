@@ -226,7 +226,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### The Great Migration: Redesigning and Rewriting our App in Ember.js by [Jade Applegate](https://twitter.com/jadeapplegate)
 
-- Video: TBA
+- [Video](https://www.youtube.com/watch?v=mbESxa_0PBs)
 - [Slides](https://speakerdeck.com/jadeapplegate/emberconf-2016-redesigning-and-rewriting-our-application-in-ember-dot-js)
 
 #### The Future of Ember Templating by [Godfrey Chan](https://twitter.com/chancancode) & [Yehuda Katz](https://twitter.com/wycats)
@@ -256,6 +256,8 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [JavaScript Callstack by Liz Tom](https://www.youtube.com/watch?v=T5-P8GLVlhY&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
     + [WebRTC + Ember by Xander Dumaine](https://www.youtube.com/watch?v=owZi3xgiWJA&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
     + [The Learning Team by Ricardo Mendes](https://www.youtube.com/watch?v=aYn9iTdsz9w&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [How to Start an Ember Revolution by Patrick O'Doherty](https://www.youtube.com/watch?v=Z7KIIDW9nZQ&index=35&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
+    + [My Experience Learning Ember and Becoming a Software Engineer by Ming Lu](https://www.youtube.com/watch?v=iiHlVVLOW2w&index=36&list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW)
 - [Javascript stack visualization](http://latentflip.com/loupe)
 - [ember-twiddle](https://ember-twiddle.com/)
 - [ember-a11y](https://github.com/nathanhammond/ember-a11y)
